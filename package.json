@@ -1,6 +1,6 @@
 {
   "name": "gemma-scroll-top",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Adding scroll-top button.",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
