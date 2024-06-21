@@ -1,0 +1,23 @@
+{
+  "name": "gemma-scroll-top",
+  "version": "1.0.6",
+  "description": "Adding scroll-top button.",
+  "main": "dist/index.js",
+  "module": "dist/index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomkalon/gemma-scroll-top.git"
+  },
+  "keywords": [
+    "scroll-top"
+  ],
+  "author": "Tomkalon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tomkalon/scroll-top/issues"
+  },
+  "homepage": "https://github.com/tomkalon/scroll-top#readme"
+}

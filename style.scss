@@ -1,0 +1,28 @@
+#scroll-top {
+  &.st- {
+    &basic {
+      position: fixed;
+      bottom: 0;
+      right: 3rem;
+      height: 50px;
+      width: 70px;
+      cursor: pointer;
+      background-color: #1b1b1c;
+      filter: drop-shadow(2px 4px 3px black);
+      border-radius: 10px 10px 0 0;
+      z-index: 1000;
+      display: flex;
+      justify-content: center;
+      border-top: 1px solid #444444;
+      border-left: 1px solid #444444;
+      border-right: 1px solid #444444;
+      transition: opacity 0.5s;
+      align-items: center;
+      opacity: 0;
+    }
+  }
+
+  &.show {
+    opacity: 1!important;
+  }
+}
