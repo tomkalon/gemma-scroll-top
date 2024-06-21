@@ -1,8 +1,8 @@
-<h1 align="center">Gemma Scroll-To-Top button</h1>
-
+# Gemma Scroll-To-Top button
 ## About
 
 In the simplest way, it adds a scroll-to-top button to a website.
+https://www.npmjs.com/package/gemma-scroll-top
 
 ![image](image.jpg)
 
